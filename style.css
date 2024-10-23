@@ -45,3 +45,11 @@ nav a {
   margin: 0 2rem 1rem 0rem;
   font-size: 1.2rem;
 }
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backgraund-color: var(--primary-color);
+  color: var(--bg-color);
+  
